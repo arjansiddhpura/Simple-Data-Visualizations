@@ -1,4 +1,4 @@
-# simple-data-visualizations
+# Some Simple Data Visualizations
 
 Uses matplotlib fundamentals to generate various plots.  
 Basic analysis of random walks.  
